@@ -13,7 +13,9 @@
 - Thing 4
 
 *Italics*
+
 **Bold**
+
 ***Bold and Italics***
 
 `var = 0`
